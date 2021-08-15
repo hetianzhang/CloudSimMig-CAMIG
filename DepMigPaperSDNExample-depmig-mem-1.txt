@@ -1,0 +1,1 @@
+Manual GWIN 0  depmig-sandpipper/depmig.physical.fattree-k8-core16.json depmig-mem/1/depmig.virtual.json depmig-mem/1/vmHostMapping.json

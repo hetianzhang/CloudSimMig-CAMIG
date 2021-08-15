@@ -1,0 +1,98 @@
+========== MIGRATIONS SUMMARY===========
+========== MIGRATIONS STATISTIC===========
+Migration VM #41: Host #8-> Host #7|10011 Avg. BW: 9.642367607669193E8 Estimated: -1.0 Real:55.95689973600008
+RAM:8 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 654.9568997360001 mt: 55.95689973600008 dt: 0.13463925600001403 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #62: Host #13-> Host #3|10005 Avg. BW: 9.642367607669193E8 Estimated: -1.0 Real:55.95689973600008
+RAM:8 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 654.9568997360001 mt: 55.95689973600008 dt: 0.13463925600001403 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #36: Host #7-> Host #15|10018 Avg. BW: 9.642367607669193E8 Estimated: -1.0 Real:55.95689973600008
+RAM:8 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 654.9568997360001 mt: 55.95689973600008 dt: 0.13463925600001403 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #24: Host #5-> Host #11|10006 Avg. BW: 5.1596795471322554E8 Estimated: -1.0 Real:109.91255746400009
+RAM:8 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 708.9125574640001 mt: 109.91255746400009 dt: 0.26885698399996727 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #74: Host #15-> Host #8|10017 Avg. BW: 5.1596795471322554E8 Estimated: -1.0 Real:109.91255746400009
+RAM:8 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 708.9125574640001 mt: 109.91255746400009 dt: 0.26885698399996727 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #63: Host #13-> Host #3|10005 Avg. BW: 9.68290342405437E8 Estimated: -1.0 Real:63.110110383000006
+RAM:9 dt thres:0.5 max iteration:30
+ start: 656.9668997360001 finish: 718.0770101190001 mt: 63.110110383000006 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #39: Host #8-> Host #15|10016 Avg. BW: 9.742466290919333E8 Estimated: -1.0 Real:77.706331965
+RAM:11 dt thres:0.5 max iteration:30
+ start: 656.9668997360001 finish: 732.6732317010001 mt: 77.706331965 dt: 0.34934380599997894 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #1: Host #0-> Host #7|10015 Avg. BW: 9.742466290919333E8 Estimated: -1.0 Real:77.706331965
+RAM:11 dt thres:0.5 max iteration:30
+ start: 656.9668997360001 finish: 732.6732317010001 mt: 77.706331965 dt: 0.34934380599997894 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #15: Host #4-> Host #1|10010 Avg. BW: 5.2431801289029723E8 Estimated: -1.0 Real:138.7515226150001
+RAM:10 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 737.7515226150001 mt: 138.7515226150001 dt: 0.0339817750000293 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #26: Host #6-> Host #10|10004 Avg. BW: 5.2431801289029723E8 Estimated: -1.0 Real:138.7515226150001
+RAM:10 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 737.7515226150001 mt: 138.7515226150001 dt: 0.0339817750000293 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #64: Host #14-> Host #2|10003 Avg. BW: 5.2431801289029723E8 Estimated: -1.0 Real:138.7515226150001
+RAM:10 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 737.7515226150001 mt: 138.7515226150001 dt: 0.0339817750000293 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #52: Host #12-> Host #9|10009 Avg. BW: 5.2431801289029723E8 Estimated: -1.0 Real:138.7515226150001
+RAM:10 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 737.7515226150001 mt: 138.7515226150001 dt: 0.0339817750000293 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #25: Host #5-> Host #11|10006 Avg. BW: 9.68290342405437E8 Estimated: -1.0 Real:63.110110383000006
+RAM:9 dt thres:0.5 max iteration:30
+ start: 710.9225574640001 finish: 772.0326678470001 mt: 63.110110383000006 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #3: Host #0-> Host #15|10012 Avg. BW: 9.642367607669193E8 Estimated: -1.0 Real:55.95689973600008
+RAM:8 dt thres:0.5 max iteration:30
+ start: 734.6832317010001 finish: 788.6401314370002 mt: 55.95689973600008 dt: 0.13463925600001403 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #70: Host #14-> Host #2|10003 Avg. BW: 9.742466290922635E8 Estimated: -1.0 Real:77.7063319660001
+RAM:11 dt thres:0.5 max iteration:30
+ start: 739.7615226150001 finish: 815.4678545810002 mt: 77.7063319660001 dt: 0.34934380599997894 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #32: Host #6-> Host #10|10004 Avg. BW: 9.742466290922635E8 Estimated: -1.0 Real:77.7063319660001
+RAM:11 dt thres:0.5 max iteration:30
+ start: 739.7615226150001 finish: 815.4678545810002 mt: 77.7063319660001 dt: 0.34934380599997894 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #21: Host #5-> Host #3|10008 Avg. BW: 9.682903424054352E8 Estimated: -1.0 Real:63.11011038300012
+RAM:9 dt thres:0.5 max iteration:30
+ start: 774.0426678470001 finish: 835.1527782300002 mt: 63.11011038300012 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #59: Host #13-> Host #11|10007 Avg. BW: 9.682903424054352E8 Estimated: -1.0 Real:63.11011038300012
+RAM:9 dt thres:0.5 max iteration:30
+ start: 774.0426678470001 finish: 835.1527782300002 mt: 63.11011038300012 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #29: Host #6-> Host #2|10013 Avg. BW: 9.784188937110423E8 Estimated: -1.0 Real:92.74779338000008
+RAM:13 dt thres:0.5 max iteration:30
+ start: 817.4778545810002 finish: 908.2256479610003 mt: 92.74779338000008 dt: 0.04835368500005188 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #67: Host #14-> Host #10|10014 Avg. BW: 9.784188937110423E8 Estimated: -1.0 Real:92.74779338000008
+RAM:13 dt thres:0.5 max iteration:30
+ start: 817.4778545810002 finish: 908.2256479610003 mt: 92.74779338000008 dt: 0.04835368500005188 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #30: Host #6-> Host #3|10002 Avg. BW: 9.68290342405437E8 Estimated: -1.0 Real:63.110110383000006
+RAM:9 dt thres:0.5 max iteration:30
+ start: 910.2356479610003 finish: 971.3457583440003 mt: 63.110110383000006 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #68: Host #14-> Host #11|10001 Avg. BW: 9.68290342405437E8 Estimated: -1.0 Real:63.110110383000006
+RAM:9 dt thres:0.5 max iteration:30
+ start: 910.2356479610003 finish: 971.3457583440003 mt: 63.110110383000006 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+Average Migration Time:85.165471875091
+Average Downtime:0.17524748836363166
+Avergae Transferred Data:66873253702
+Total Multiple Migration Time:372.3457583440003
+Sum of Migration Time:1873.640381252002
+Total Downtime:3.8554447439998967
+Total Transferred Data:1471211581456
+Algorithm: GWIN
+runtime (millisecond): 0.0

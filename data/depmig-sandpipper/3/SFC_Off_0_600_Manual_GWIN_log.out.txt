@@ -1,0 +1,43 @@
+Data center infrastructure (Physical Topology) : depmig-sandpipper/depmig.physical.fattree-k8-core16.json
+Virtual Machine and Network requests (Virtual Topology) : depmig-optimal/1/depmig.virtual.json
+Workloads in depmig-sandpipper/3/ :
+  workload-0.csv
+  workload-1.csv
+  workload-2.csv
+  workload-3.csv
+  workload-4.csv
+  workload-5.csv
+  workload-6.csv
+  workload-7.csv
+  workload-8.csv
+  workload-9.csv
+  workload-10.csv
+  workload-11.csv
+  workload-12.csv
+  workload-13.csv
+  workload-14.csv
+  workload-15.csv
+  workload-16.csv
+  workload-17.csv
+  workload-18.csv
+  workload-19.csv
+  workload-20.csv
+  workload-21.csv
+  workload-22.csv
+  workload-23.csv
+  workload-24.csv
+  workload-25.csv
+  workload-26.csv
+  workload-27.csv
+  workload-28.csv
+  workload-29.csv
+  workload-30.csv
+  workload-31.csv
+  workload-32.csv
+  workload-33.csv
+  workload-34.csv
+  workload-35.csv
+  workload-36.csv
+  workload-37.csv
+Starting CloudSim SDN...
+Initialising...

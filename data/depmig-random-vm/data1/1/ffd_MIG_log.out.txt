@@ -1,0 +1,58 @@
+========== MIGRATIONS SUMMARY===========
+========== MIGRATIONS STATISTIC===========
+Migration VM #2: Host #0-> Host #2|10005 Avg. BW: 9.742541420185257E8 Estimated: -1.0 Real:77.70570281399989
+RAM:11 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 676.7057028139999 mt: 77.70570281399989 dt: 0.34912873500002206 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #25: Host #5-> Host #1|10006 Avg. BW: 9.74124182510318E8 Estimated: -1.0 Real:77.71680681399994
+RAM:11 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 676.7168068139999 mt: 77.71680681399994 dt: 0.3500327350000134 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #14: Host #4-> Host #3|10002 Avg. BW: 9.74124182510318E8 Estimated: -1.0 Real:77.71680681399994
+RAM:11 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 676.7168068139999 mt: 77.71680681399994 dt: 0.3500327350000134 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #29: Host #6-> Host #7|10008 Avg. BW: 9.827621737917234E8 Estimated: -1.0 Real:116.07031883399975
+RAM:16 dt thres:0.5 max iteration:30
+ start: 601.0 finish: 715.0703188339997 mt: 116.07031883399975 dt: 0.11017395399994712 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #3: Host #0-> Host #3|10001 Avg. BW: 9.742541420185285E8 Estimated: -1.0 Real:77.70570281399966
+RAM:11 dt thres:0.5 max iteration:30
+ start: 678.7268068139999 finish: 754.4325096279996 mt: 77.70570281399966 dt: 0.3491287349999084 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #23: Host #5-> Host #1|10006 Avg. BW: 9.800664549931767E8 Estimated: -1.0 Real:100.41364871699966
+RAM:14 dt thres:0.5 max iteration:30
+ start: 678.7268068139999 finish: 777.1404555309996 mt: 100.41364871699966 dt: 0.06489069099995959 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #31: Host #6-> Host #2|10004 Avg. BW: 9.682903424049379E8 Estimated: -1.0 Real:63.11011038199979
+RAM:9 dt thres:0.5 max iteration:30
+ start: 717.0803188339997 finish: 778.1904292159995 mt: 63.11011038199979 dt: 0.19152734299996155 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #30: Host #6-> Host #3|10007 Avg. BW: 9.642367607669193E8 Estimated: -1.0 Real:55.95689973600008
+RAM:8 dt thres:0.5 max iteration:30
+ start: 780.2004292159995 finish: 834.1573289519996 mt: 55.95689973600008 dt: 0.13463925600001403 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #24: Host #5-> Host #2|10003 Avg. BW: 9.80066454993372E8 Estimated: -1.0 Real:100.41364871799999
+RAM:14 dt thres:0.5 max iteration:30
+ start: 780.2004292159995 finish: 878.6140779339995 mt: 100.41364871799999 dt: 0.06489069099995959 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #32: Host #6-> Host #2|10004 Avg. BW: 9.715574595585626E8 Estimated: -1.0 Real:70.35939683799995
+RAM:10 dt thres:0.5 max iteration:30
+ start: 880.6240779339995 finish: 948.9834747719995 mt: 70.35939683799995 dt: 0.26257123799996407 iter: 3 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #33: Host #6-> Host #2|10004 Avg. BW: 9.827554100574895E8 Estimated: -1.0 Real:116.07118468299973
+RAM:16 dt thres:0.5 max iteration:30
+ start: 950.9934747719994 finish: 1065.0646594549992 mt: 116.07118468299973 dt: 0.11039674599987848 iter: 4 Deadline: 0.0
+========== MIGRATIONS STATISTIC===========
+Migration VM #34: Host #6-> Host #3|10007 Avg. BW: 9.827554100574895E8 Estimated: -1.0 Real:116.07118468299973
+RAM:16 dt thres:0.5 max iteration:30
+ start: 1067.0746594549992 finish: 1181.145844137999 mt: 116.07118468299973 dt: 0.11039674599987848 iter: 4 Deadline: 0.0
+Average Migration Time:87.4426176539165
+Average Downtime:0.20398413374996002
+Avergae Transferred Data:85439786679
+Total Multiple Migration Time:582.1458441379989
+Sum of Migration Time:1049.311411846998
+Total Downtime:2.44780960499952
+Total Transferred Data:1025277440154
+Algorithm: GWIN
+runtime (millisecond): 0.0

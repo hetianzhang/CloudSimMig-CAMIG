@@ -1,0 +1,579 @@
+Data center infrastructure (Physical Topology) : depmig-sandpipper/depmig.physical.fattree-k8-core16.json
+Virtual Machine and Network requests (Virtual Topology) : depmig-camig/3/depmig.virtual.json
+Workloads in depmig-camig/3/ :
+  workload-0.csv
+  workload-1.csv
+  workload-2.csv
+  workload-3.csv
+  workload-4.csv
+  workload-5.csv
+  workload-6.csv
+  workload-7.csv
+  workload-8.csv
+  workload-9.csv
+  workload-10.csv
+  workload-11.csv
+  workload-12.csv
+  workload-13.csv
+  workload-14.csv
+  workload-15.csv
+  workload-16.csv
+  workload-17.csv
+  workload-18.csv
+  workload-19.csv
+  workload-20.csv
+  workload-21.csv
+  workload-22.csv
+  workload-23.csv
+  workload-24.csv
+  workload-25.csv
+  workload-26.csv
+  workload-27.csv
+  workload-28.csv
+  workload-29.csv
+  workload-30.csv
+  workload-31.csv
+  workload-32.csv
+  workload-33.csv
+  workload-34.csv
+  workload-35.csv
+  workload-36.csv
+  workload-37.csv
+Starting CloudSim SDN...
+Initialising...
+120660.0195: ========== EXPERIMENT FINISHED ===========
+========== HOST POWER CONSUMPTION based on Actual Workload processing ===========
+Host #0: 4385.135415582939
+Host #1: 2192.646277073939
+Host #2: 4183.662945879777
+Host #3: 1283.52499893042
+Host #4: 4396.04890304589
+Host #5: 4354.555700825099
+Host #6: 4393.307542498904
+Host #7: 4321.050241224742
+Host #8: 0.0
+Host #9: 0.0
+Host #10: 0.0
+Host #11: 0.0
+Host #12: 0.0
+Host #13: 0.0
+Host #14: 0.0
+Host #15: 0.0
+Host #16: 0.0
+Host #17: 0.0
+Host #18: 0.0
+Host #19: 0.0
+Host #20: 0.0
+Host #21: 0.0
+Host #22: 0.0
+Host #23: 0.0
+Host #24: 0.0
+Host #25: 0.0
+Host #26: 0.0
+Host #27: 0.0
+Host #28: 0.0
+Host #29: 0.0
+Host #30: 0.0
+Host #31: 0.0
+Host #32: 0.0
+Host #33: 0.0
+Host #34: 0.0
+Host #35: 0.0
+Host #36: 0.0
+Host #37: 0.0
+Host #38: 0.0
+Host #39: 0.0
+Host #40: 0.0
+Host #41: 0.0
+Host #42: 0.0
+Host #43: 0.0
+Host #44: 0.0
+Host #45: 0.0
+Host #46: 0.0
+Host #47: 0.0
+Host #48: 0.0
+Host #49: 0.0
+Host #50: 0.0
+Host #51: 0.0
+Host #52: 0.0
+Host #53: 0.0
+Host #54: 0.0
+Host #55: 0.0
+Host #56: 0.0
+Host #57: 0.0
+Host #58: 0.0
+Host #59: 0.0
+Host #60: 0.0
+Host #61: 0.0
+Host #62: 0.0
+Host #63: 0.0
+Host #64: 0.0
+Host #65: 0.0
+Host #66: 0.0
+Host #67: 0.0
+Host #68: 0.0
+Host #69: 0.0
+Host #70: 0.0
+Host #71: 0.0
+Host #72: 0.0
+Host #73: 0.0
+Host #74: 0.0
+Host #75: 0.0
+Host #76: 0.0
+Host #77: 0.0
+Host #78: 0.0
+Host #79: 0.0
+Host #80: 0.0
+Host #81: 0.0
+Host #82: 0.0
+Host #83: 0.0
+Host #84: 0.0
+Host #85: 0.0
+Host #86: 0.0
+Host #87: 0.0
+Host #88: 0.0
+Host #89: 0.0
+Host #90: 0.0
+Host #91: 0.0
+Host #92: 0.0
+Host #93: 0.0
+Host #94: 0.0
+Host #95: 0.0
+Host #96: 0.0
+Host #97: 0.0
+Host #98: 0.0
+Host #99: 0.0
+Host #100: 0.0
+Host #101: 0.0
+Host #102: 0.0
+Host #103: 0.0
+Host #104: 0.0
+Host #105: 0.0
+Host #106: 0.0
+Host #107: 0.0
+Host #108: 0.0
+Host #109: 0.0
+Host #110: 0.0
+Host #111: 0.0
+Host #112: 0.0
+Host #113: 0.0
+Host #114: 0.0
+Host #115: 0.0
+Host #116: 0.0
+Host #117: 0.0
+Host #118: 0.0
+Host #119: 0.0
+Host #120: 0.0
+Host #121: 0.0
+Host #122: 0.0
+Host #123: 0.0
+Host #124: 0.0
+Host #125: 0.0
+Host #126: 0.0
+Host #127: 0.0
+========== SWITCH POWER CONSUMPTION AND DETAILED UTILIZATION ===========
+Switch:c_0_0: 0.0
+Switch:c_0_1: 0.0
+Switch:c_0_2: 0.0
+Switch:c_0_3: 0.0
+Switch:c_1_0: 0.0
+Switch:c_1_1: 0.0
+Switch:c_1_2: 0.0
+Switch:c_1_3: 0.0
+Switch:c_2_0: 0.0
+Switch:c_2_1: 0.0
+Switch:c_2_2: 0.0
+Switch:c_2_3: 0.0
+Switch:c_3_0: 0.0
+Switch:c_3_1: 0.0
+Switch:c_3_2: 0.0
+Switch:c_3_3: 0.0
+Switch:e_0_0: 1.5445127068796698
+Switch:a_0_0: 1.0251470187381124
+Switch:e_0_1: 1.5445127068796698
+Switch:a_0_1: 0.5019888915523883
+Switch:e_0_2: 1.548113774968281
+Switch:a_0_2: 1.4975074507721697
+Switch:e_0_3: 1.548113774968281
+Switch:a_0_3: 1.5119117231266141
+Switch:e_1_0: 1.5445127068796698
+Switch:a_1_0: 1.4975074507721697
+Switch:e_1_1: 1.5445127068796698
+Switch:a_1_1: 0.9961471030736679
+Switch:e_1_2: 0.0
+Switch:a_1_2: 0.0
+Switch:e_1_3: 0.0
+Switch:a_1_3: 0.49478675537516614
+Switch:e_2_0: 0.0
+Switch:a_2_0: 0.0
+Switch:e_2_1: 0.0
+Switch:a_2_1: 0.0
+Switch:e_2_2: 0.0
+Switch:a_2_2: 0.0
+Switch:e_2_3: 0.0
+Switch:a_2_3: 0.0
+Switch:e_3_0: 0.0
+Switch:a_3_0: 0.0
+Switch:e_3_1: 0.0
+Switch:a_3_1: 0.0
+Switch:e_3_2: 0.0
+Switch:a_3_2: 0.0
+Switch:e_3_3: 0.0
+Switch:a_3_3: 0.0
+Switch:e_4_0: 0.0
+Switch:a_4_0: 0.0
+Switch:e_4_1: 0.0
+Switch:a_4_1: 0.0
+Switch:e_4_2: 0.0
+Switch:a_4_2: 0.0
+Switch:e_4_3: 0.0
+Switch:a_4_3: 0.0
+Switch:e_5_0: 0.0
+Switch:a_5_0: 0.0
+Switch:e_5_1: 0.0
+Switch:a_5_1: 0.0
+Switch:e_5_2: 0.0
+Switch:a_5_2: 0.0
+Switch:e_5_3: 0.0
+Switch:a_5_3: 0.0
+Switch:e_6_0: 0.0
+Switch:a_6_0: 0.0
+Switch:e_6_1: 0.0
+Switch:a_6_1: 0.0
+Switch:e_6_2: 0.0
+Switch:a_6_2: 0.0
+Switch:e_6_3: 0.0
+Switch:a_6_3: 0.0
+Switch:e_7_0: 0.0
+Switch:a_7_0: 0.0
+Switch:e_7_1: 0.0
+Switch:a_7_1: 0.0
+Switch:e_7_2: 0.0
+Switch:a_7_2: 0.0
+Switch:e_7_3: 0.0
+Switch:a_7_3: 0.0
+========== HOST Overload percentage ===========
+Overload Host #0: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #1: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #2: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #3: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #4: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #5: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #6: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #7: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #8: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #9: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #10: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #11: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #12: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #13: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #14: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #15: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #16: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #17: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #18: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #19: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #20: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #21: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #22: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #23: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #24: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #25: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #26: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #27: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #28: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #29: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #30: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #31: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #32: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #33: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #34: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #35: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #36: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #37: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #38: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #39: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #40: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #41: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #42: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #43: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #44: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #45: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #46: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #47: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #48: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #49: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #50: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #51: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #52: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #53: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #54: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #55: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #56: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #57: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #58: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #59: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #60: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #61: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #62: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #63: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #64: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #65: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #66: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #67: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #68: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #69: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #70: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #71: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #72: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #73: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #74: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #75: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #76: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #77: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #78: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #79: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #80: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #81: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #82: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #83: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #84: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #85: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #86: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #87: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #88: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #89: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #90: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #91: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #92: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #93: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #94: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #95: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #96: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #97: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #98: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #99: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #100: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #101: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #102: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #103: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #104: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #105: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #106: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #107: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #108: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #109: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #110: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #111: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #112: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #113: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #114: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #115: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #116: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #117: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #118: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #119: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #120: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #121: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #122: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #123: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #124: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #125: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #126: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Overload Host #127: 0.0/0.0=0.0... Scaled Overload duration= 0.0
+========== VM Overload percentage ===========
+Vm(VM #0 (0) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #1 (1) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #3 (3) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #4 (4) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #5 (5) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #133 (mig0) in (SDNHost 0)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #6 (6) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #7 (7) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #8 (8) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #9 (9) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #10 (10) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #126 (mig1) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #17 (17) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #18 (18) in (SDNHost 1)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #11 (11) in (SDNHost 2)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #120 (mig2) in (SDNHost 2)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #22 (22) in (SDNHost 2)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #23 (23) in (SDNHost 2)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #20 (20) in (SDNHost 2)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #12 (12) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #13 (13) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #114 (mig3) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #29 (29) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #30 (30) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #27 (27) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #33 (33) in (SDNHost 3)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #14 (14) in (SDNHost 4)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #15 (15) in (SDNHost 4)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #16 (16) in (SDNHost 4)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #127 (mig4) in (SDNHost 4)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #19 (19) in (SDNHost 5)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #21 (21) in (SDNHost 5)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #24 (24) in (SDNHost 5)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #25 (25) in (SDNHost 5)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #121 (mig5) in (SDNHost 5)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #26 (26) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #28 (28) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #31 (31) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #32 (32) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #34 (34) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #115 (mig6) in (SDNHost 6)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #35 (35) in (SDNHost 7)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #36 (36) in (SDNHost 7)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #37 (37) in (SDNHost 7)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #132 (mig7) in (SDNHost 7)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #2 (2) in (SDNHost 7)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #38 (38) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #39 (39) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #41 (41) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #42 (42) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #43 (43) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #135 (mig8) in (SDNHost 8)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #44 (44) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #45 (45) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #46 (46) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #47 (47) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #48 (48) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #128 (mig9) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #55 (55) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #56 (56) in (SDNHost 9)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #49 (49) in (SDNHost 10)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #122 (mig10) in (SDNHost 10)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #60 (60) in (SDNHost 10)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #61 (61) in (SDNHost 10)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #58 (58) in (SDNHost 10)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #50 (50) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #51 (51) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #116 (mig11) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #67 (67) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #68 (68) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #65 (65) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #71 (71) in (SDNHost 11)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #52 (52) in (SDNHost 12)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #53 (53) in (SDNHost 12)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #54 (54) in (SDNHost 12)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #129 (mig12) in (SDNHost 12)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #57 (57) in (SDNHost 13)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #59 (59) in (SDNHost 13)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #62 (62) in (SDNHost 13)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #63 (63) in (SDNHost 13)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #123 (mig13) in (SDNHost 13)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #64 (64) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #66 (66) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #69 (69) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #70 (70) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #72 (72) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #117 (mig14) in (SDNHost 14)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #73 (73) in (SDNHost 15)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #74 (74) in (SDNHost 15)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #75 (75) in (SDNHost 15)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #134 (mig15) in (SDNHost 15)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #40 (40) in (SDNHost 15)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #76 (76) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #77 (77) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #79 (79) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #80 (80) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #81 (81) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #137 (mig16) in (SDNHost 16)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #82 (82) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #83 (83) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #84 (84) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #85 (85) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #86 (86) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #130 (mig17) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #93 (93) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #94 (94) in (SDNHost 17)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #87 (87) in (SDNHost 18)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #124 (mig18) in (SDNHost 18)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #98 (98) in (SDNHost 18)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #99 (99) in (SDNHost 18)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #96 (96) in (SDNHost 18)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #88 (88) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #89 (89) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #118 (mig19) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #105 (105) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #106 (106) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #103 (103) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #109 (109) in (SDNHost 19)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #90 (90) in (SDNHost 20)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #91 (91) in (SDNHost 20)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #92 (92) in (SDNHost 20)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #131 (mig20) in (SDNHost 20)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #95 (95) in (SDNHost 21)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #97 (97) in (SDNHost 21)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #100 (100) in (SDNHost 21)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #101 (101) in (SDNHost 21)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #125 (mig21) in (SDNHost 21)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #102 (102) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #104 (104) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #107 (107) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #108 (108) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #110 (110) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #119 (mig22) in (SDNHost 22)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #111 (111) in (SDNHost 23)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #112 (112) in (SDNHost 23)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #113 (113) in (SDNHost 23)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #136 (mig23) in (SDNHost 23)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+Vm(VM #78 (78) in (SDNHost 23)): 0.0/0.0=0.0... Scaled Overload duration= 0.0
+========== CONFIGURATIONS ===========
+workingDirectory :depmig-camig/3/
+overbookingTimeWindowInterval:600.0
+OVERLOAD_THRESHOLD:1.0
+OVERLOAD_THRESHOLD_ERROR:0.0
+OVERLOAD_THRESHOLD_BW_UTIL:1.0
+UNDERLOAD_THRESHOLD_HOST:0.0
+UNDERLOAD_THRESHOLD_HOST_BW:0.3
+UNDERLOAD_THRESHOLD_VM:0.3
+DECIDE_SLA_VIOLATION_GRACE_ERROR:1.0
+==================================================
+========== PARAMETERS ===========
+experimentName :SFC_Off_0_600_Manual_GWIN_
+CPU_REQUIRED_MIPS_PER_WORKLOAD_PERCENT:1.0
+monitoringTimeInterval:600.0
+overbookingTimeWindowNumPoints:1.0
+migrationTimeInterval:600.0
+OVERBOOKING_RATIO_MAX:1.0
+OVERBOOKING_RATIO_MIN:1.0
+OVERBOOKING_RATIO_INIT:1.0
+OVERBOOKING_RATIO_UTIL_PORTION:0.0
+OVERLOAD_HOST_PERCENTILE_THRESHOLD:0.0
+========== TOTAL POWER CONSUMPTION ===========
+Host energy consumed: 29509.93202506171
+Switch energy consumed: 16.799274770865534
+Total energy consumed: 29526.731299832576
+========== MIGRATION ===========
+Attempted: 30
+Completed: 30
+========== HOST OVERLOADED ===========
+Scaled overloaded: 1.0
+Overloaded Percent: 0.0
+========== VM OVERLOADED ===========
+Scaled overloaded: 1.0
+Overloaded Percent: 0.0
+Simultanously used hosts:24
+============= SDNBroker.printResult() =============================
+Workloads Num: 2774
+Workloads CPU Num: 2774
+Workloads Network Num: 0
+Workloads Timed Out Num: 0
+Total serve time: 8.073362303149635E7
+Total serve time CPU: 8.073362303149635E7
+Total serve time Network: 0.0
+Avg serve time: 29103.68530335124
+Overall overtime percentage: 0.0
+Avg serve time CPU: 29103.68530335124
+CPU overtime percentage: 0.0
+============= SDNBroker.printResult() Group analysis =======================
+Group num: 0, groupNumWorkloads:2774
+Group num: 0, groupTotalServetime:8.073362303149635E7
+Group num: 0, groupTotalServetimeCPU:8.073362303149635E7
+Group num: 0, groupTotalServetimeNetwork:0.0
+Group num: 0, group avg Serve time:29103.68530335124
+Group num: 0, group avg Serve time CPU:29103.68530335124
+Group num: 0, group avg Serve time Network:0.0
+CloudSim SDN finished!

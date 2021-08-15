@@ -1,0 +1,50 @@
+Workload_ID,    App_ID,SubmitTime,Pr:CPUTime,ResponseTime,
+#======================================
+#Number of workloads:29
+#Timeout workloads:1402
+#Timeout workloads per cent:0
+#Over workloads:0
+#Over workloads per cent:0
+#Number of Cloudlets:29
+#Over Cloudlets:0
+#Over Cloudlets per cent:0
+#Number of transmissions:0
+#Over transmissions:0
+#======================================
+#Total serve time:546.6723153578824
+#CPU serve time:546.6723153578824
+#Network serve time:0.0
+#Average total serve time:18.850769495099396
+#Average CPU serve time per workload:18.850769495099396
+#Average network serve time per workload:0.0
+#Average CPU serve time per Cloudlet:18.850769495099396
+#======================================
+21.35980000000019
+21.119899999999888
+20.87960000000001
+20.639299999999423
+20.419199999998966
+20.179299999999955
+19.919800000000464
+19.67979999999983
+19.43999999999312
+19.19970000000012
+18.959888156997636
+18.720000000000027
+18.47999999999172
+18.239900000000034
+17.99989999999775
+17.779400000000464
+17.5196999999921
+17.279899999989993
+17.039899999992485
+14.399999999997817
+17.159703684997567
+17.51962351599377
+17.879899999990357
+18.239899999989348
+18.599799999997686
+18.979299999988825
+19.31969999999069
+19.679699999990817
+20.0396999999914
